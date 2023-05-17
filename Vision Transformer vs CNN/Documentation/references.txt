@@ -1,0 +1,7 @@
+https://keras.io/guides/serialization_and_saving/
+
+https://arxiv.org/pdf/2010.11929.pdf
+
+https://keras.io/examples/vision/image_classification_with_vision_transformer/
+
+https://github.com/google-research/vision_transformer
