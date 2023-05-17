@@ -1,5 +1,5 @@
 # Deep-Learning
-Vision Transformers vs. Convolutional Neural Networks
+
 # Vision Transformers vs. Convolutional Neural Networks
 
 # **Overview, Task, and Data Description**
